@@ -16,21 +16,11 @@
 # Observações:
 
 <div align="justify">
-
-1. O trabalho deve ser realizado individualmente, logo, qualquer indício de cópia será desconsiderada para avaliação.
-2. O trabalho entregue deve obrigatoriamente executar em sistema operacional Linux com gcc/g++ na versão 11 ou superior, sendo de responsabilidade do aluno validar possíveis erros de compilação e execução. O processo de compilação deve seguir os padrões pré estabelecidos na disciplina.
-3. Linguagem de programação aceitas: C, C++ e/ou Python.
-   
+  
 É amplamente reconhecido que a teoria dos grafos oferece uma aplicabilidade extensa a uma ampla variedade de problemas emergentes em diversas areas e disciplinas. Nesse contexto, como parte do desenvolvimento acadêmico, cada aluno é incumbido de identificar um problema específico que seja suscetível de modelagem por meio de um grafo. Logo, cada um deve então propor e aplicar um ou mais algoritmos adequados para abordar uma questão de pesquisa
 relacionada a esse problema. 
 
 É importante ressaltar que, embora um mesmo problema possa ser selecionado por mais de um aluno, a seleção do algoritmo para sua resolução deve ser única. Este requisito visa a estimular a diversidade de abordagens e soluções, promovendo um ambiente de aprendizado e pesquisa amplo. Para facilitar a organização e evitar potenciais problemas na avaliação, será empregado o canal do Telegram para divulgar as associações entre os problemas escolhidos e os algoritmos selecionados por cada aluno. Isso garantirá que cada abordagem única seja devidamente documentada e avaliada, contribuindo para a qualidade do processo de aprendizado e pesquisa neste contexto acadêmico.
-
-</div>
-
-# Considerações
-
-<div align="justify">
   
 Cada problema abordado deve ser explicado em detalhes por um artigo, o qual deve contemplar no mínimo: Resumo, Introdução, Contextualização, Trabalhos Correlatos, Resultados, Considerações finais e trabalhos futuros. Nesse modelo, é impressindível que as referencias sejam parte de exploração sobre o tema. Logo, de imporância para esse ponto e considere citar bons trabalhos e livros que tratam sobre o problema abordado.
 
@@ -42,6 +32,39 @@ Quanto ao git e algoritmo. Como será exigida a construção de um artigo, fica 
 
 No AVA, cada aluno deve enviar apenas o PDF do artigo resultante. A partir dele considerase que o necessário a explicação, observação e execução já serão bem tratados e explicados. Ademais, no artigo preze a definição de pseudo algoritmos e apresente o mesmo seguindo os padrões de um artigo científico padrão.
 
-O modelo de artigo a ser utilizado será o IEEE Conference Template disponível no Overleaf através do link https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn
+O modelo de artigo a ser utilizado será o IEEE Conference Template disponível no Overleaf através do [link](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
 
 </div>
+
+## Modelagem do Problema:
+
+**1. Vértices:** Cada jogador no banco de dados é representado como um vértice no grafo.
+
+**2. Arestas:** As arestas são estabelecidas entre jogadores de posições que normalmente interagem em campo (por exemplo, atacante com meio-campista, meio-campista com lateral, etc.). 
+
+**3. Pesos das Arestas:** O peso de cada aresta é determinado com base na diferença ou na soma dos "overalls" dos jogadores conectados. O "threshold" mencionado seria um critério para estabelecer essas arestas. Por exemplo, se a soma dos "overalls" dos dois jogadores exceder um determinado valor (o threshold), uma aresta é criada entre eles.
+
+### Algoritmos e Solução:
+
+**1. Criação do Grafo:** Primeiramente, você criaria o grafo com base nos dados disponíveis, conectando jogadores conforme o critério estabelecido.
+
+**2. Análise de Redes:** Você pode usar algoritmos de análise de redes para identificar padrões importantes. Por exemplo:
+
+   - **Centralidade:** Identificar jogadores que são "centrais" em várias combinações, indicando sua versatilidade ou importância na equipe.
+   - **Clusters ou Comunidades:** Detectar grupos de jogadores que frequentemente formam boas combinações entre si.
+
+**3. Identificação de Perfis de Jogadores:** Com base nas conexões estabelecidas, você pode identificar tipos específicos de jogadores. Por exemplo, um lateral que frequentemente atinge o threshold com atacantes pode ser classificado como "ofensivo".
+
+### Considerações Adicionais na Modelagem:
+
+- **Seleção de Estatísticas:** Além do "overall", você pode considerar outras estatísticas relevantes para a posição (como passe, velocidade, finalização) para refinar a análise.
+  
+- **Definição de Thresholds:** O valor do threshold pode variar de acordo com a posição e a estratégia de jogo. Por exemplo, para um time que valoriza a defesa, o threshold para relações defensivas pode ser mais alto.
+
+- **Visualização:** Utilizar ferramentas de visualização de grafos para interpretar as relações e identificar padrões significativos.
+
+- **Análise Temporal:** Se você tiver dados ao longo do tempo, pode analisar como as relações entre jogadores mudam ao longo das temporadas.
+
+### Conclusão:
+
+Esta abordagem permite uma análise sofisticada das interações entre jogadores e pode revelar insights sobre dinâmicas de equipe, compatibilidade entre jogadores e identificar jogadores-chave em diferentes estratégias de jogo. A aplicação de técnicas de análise de redes e a escolha cuidadosa das estatísticas a serem consideradas são fundamentais para o sucesso desta modelagem.
