@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">
     <a>
-        <img alt="Banner" title="#Banner" style="object-fit: fill; height:200px;" src="imgs/github-header-image.png"/>
+        <img alt="Banner" title="#Banner" style="object-fit: fill; width:961px; height:200px;" src="imgs/github-header-image.png"/>
     </a>
 </h1>
 
