@@ -1,0 +1,369 @@
+Source,Target,Type,Weight
+Kylian Mbappé,Kevin De Bruyne,Undirected,91.0
+Kylian Mbappé,Bernardo Silva,Undirected,89.5
+Kylian Mbappé,Federico Valverde,Undirected,89.5
+Kylian Mbappé,Luka Modrić,Undirected,89.0
+Kylian Mbappé,Frenkie de Jong,Undirected,89.0
+Kylian Mbappé,Jude Bellingham,Undirected,88.5
+Kylian Mbappé,Pedri,Undirected,88.5
+Kylian Mbappé,Nicolò Barella,Undirected,88.5
+Kylian Mbappé,İlkay Gündoğan,Undirected,88.5
+Kylian Mbappé,Sergej Milinković-Savić,Undirected,88.5
+Kylian Mbappé,Parejo,Undirected,88.5
+Kylian Mbappé,Toni Kroos,Undirected,88.5
+Kylian Mbappé,Hakan Çalhanoğlu,Undirected,88.0
+Kylian Mbappé,Leon Goretzka,Undirected,88.0
+Kylian Mbappé,Thiago,Undirected,87.5
+Kylian Mbappé,Rodrigo Javier De Paul,Undirected,87.5
+Kylian Mbappé,Bruno Guimarães,Undirected,87.5
+Kylian Mbappé,Lionel Messi,Undirected,90.5
+Kylian Mbappé,Karim Benzema,Undirected,90.5
+Kylian Mbappé,Paulo Dybala,Undirected,88.5
+Kylian Mbappé,Sadio Mané,Undirected,88.5
+Kylian Mbappé,Christopher Nkunku,Undirected,88.5
+Kylian Mbappé,Diogo Jota,Undirected,88.0
+Kylian Mbappé,Memphis Depay,Undirected,87.5
+Erling Haaland,Kevin De Bruyne,Undirected,91.0
+Erling Haaland,Bernardo Silva,Undirected,89.5
+Erling Haaland,Federico Valverde,Undirected,89.5
+Erling Haaland,Luka Modrić,Undirected,89.0
+Erling Haaland,Frenkie de Jong,Undirected,89.0
+Erling Haaland,Jude Bellingham,Undirected,88.5
+Erling Haaland,Pedri,Undirected,88.5
+Erling Haaland,Nicolò Barella,Undirected,88.5
+Erling Haaland,İlkay Gündoğan,Undirected,88.5
+Erling Haaland,Sergej Milinković-Savić,Undirected,88.5
+Erling Haaland,Parejo,Undirected,88.5
+Erling Haaland,Toni Kroos,Undirected,88.5
+Erling Haaland,Hakan Çalhanoğlu,Undirected,88.0
+Erling Haaland,Leon Goretzka,Undirected,88.0
+Erling Haaland,Thiago,Undirected,87.5
+Erling Haaland,Rodrigo Javier De Paul,Undirected,87.5
+Erling Haaland,Bruno Guimarães,Undirected,87.5
+Erling Haaland,Lionel Messi,Undirected,90.5
+Erling Haaland,Karim Benzema,Undirected,90.5
+Erling Haaland,Paulo Dybala,Undirected,88.5
+Erling Haaland,Sadio Mané,Undirected,88.5
+Erling Haaland,Christopher Nkunku,Undirected,88.5
+Erling Haaland,Diogo Jota,Undirected,88.0
+Erling Haaland,Memphis Depay,Undirected,87.5
+Kevin De Bruyne,Harry Kane,Undirected,90.5
+Kevin De Bruyne,Robert Lewandowski,Undirected,90.5
+Kevin De Bruyne,Antoine Griezmann,Undirected,89.5
+Kevin De Bruyne,Victor Osimhen,Undirected,89.5
+Kevin De Bruyne,Lautaro Martínez,Undirected,89.0
+Kevin De Bruyne,Cristiano Ronaldo,Undirected,88.5
+Kevin De Bruyne,Iago Aspas,Undirected,88.0
+Kevin De Bruyne,Ciro Immobile,Undirected,88.0
+Kevin De Bruyne,Gabriel Jesus,Undirected,87.5
+Kevin De Bruyne,Andrew Robertson,Undirected,88.5
+Kevin De Bruyne,João Cancelo,Undirected,88.5
+Kevin De Bruyne,Marcos Acuña,Undirected,88.0
+Kevin De Bruyne,Theo Hernández,Undirected,88.0
+Lionel Messi,Harry Kane,Undirected,90.0
+Lionel Messi,Robert Lewandowski,Undirected,90.0
+Lionel Messi,Antoine Griezmann,Undirected,89.0
+Lionel Messi,Victor Osimhen,Undirected,89.0
+Lionel Messi,Lautaro Martínez,Undirected,88.5
+Lionel Messi,Cristiano Ronaldo,Undirected,88.0
+Lionel Messi,Iago Aspas,Undirected,87.5
+Lionel Messi,Ciro Immobile,Undirected,87.5
+Lionel Messi,Gabriel Jesus,Undirected,87.0
+Karim Benzema,Harry Kane,Undirected,90.0
+Karim Benzema,Robert Lewandowski,Undirected,90.0
+Karim Benzema,Antoine Griezmann,Undirected,89.0
+Karim Benzema,Victor Osimhen,Undirected,89.0
+Karim Benzema,Lautaro Martínez,Undirected,88.5
+Karim Benzema,Cristiano Ronaldo,Undirected,88.0
+Karim Benzema,Iago Aspas,Undirected,87.5
+Karim Benzema,Ciro Immobile,Undirected,87.5
+Karim Benzema,Gabriel Jesus,Undirected,87.0
+Harry Kane,Bernardo Silva,Undirected,89.0
+Harry Kane,Federico Valverde,Undirected,89.0
+Harry Kane,Luka Modrić,Undirected,88.5
+Harry Kane,Frenkie de Jong,Undirected,88.5
+Harry Kane,Jude Bellingham,Undirected,88.0
+Harry Kane,Pedri,Undirected,88.0
+Harry Kane,Nicolò Barella,Undirected,88.0
+Harry Kane,İlkay Gündoğan,Undirected,88.0
+Harry Kane,Sergej Milinković-Savić,Undirected,88.0
+Harry Kane,Parejo,Undirected,88.0
+Harry Kane,Toni Kroos,Undirected,88.0
+Harry Kane,Hakan Çalhanoğlu,Undirected,87.5
+Harry Kane,Leon Goretzka,Undirected,87.5
+Harry Kane,Thiago,Undirected,87.0
+Harry Kane,Rodrigo Javier De Paul,Undirected,87.0
+Harry Kane,Bruno Guimarães,Undirected,87.0
+Harry Kane,Paulo Dybala,Undirected,88.0
+Harry Kane,Sadio Mané,Undirected,88.0
+Harry Kane,Christopher Nkunku,Undirected,88.0
+Harry Kane,Diogo Jota,Undirected,87.5
+Harry Kane,Memphis Depay,Undirected,87.0
+Robert Lewandowski,Bernardo Silva,Undirected,89.0
+Robert Lewandowski,Federico Valverde,Undirected,89.0
+Robert Lewandowski,Luka Modrić,Undirected,88.5
+Robert Lewandowski,Frenkie de Jong,Undirected,88.5
+Robert Lewandowski,Jude Bellingham,Undirected,88.0
+Robert Lewandowski,Pedri,Undirected,88.0
+Robert Lewandowski,Nicolò Barella,Undirected,88.0
+Robert Lewandowski,İlkay Gündoğan,Undirected,88.0
+Robert Lewandowski,Sergej Milinković-Savić,Undirected,88.0
+Robert Lewandowski,Parejo,Undirected,88.0
+Robert Lewandowski,Toni Kroos,Undirected,88.0
+Robert Lewandowski,Hakan Çalhanoğlu,Undirected,87.5
+Robert Lewandowski,Leon Goretzka,Undirected,87.5
+Robert Lewandowski,Thiago,Undirected,87.0
+Robert Lewandowski,Rodrigo Javier De Paul,Undirected,87.0
+Robert Lewandowski,Bruno Guimarães,Undirected,87.0
+Robert Lewandowski,Paulo Dybala,Undirected,88.0
+Robert Lewandowski,Sadio Mané,Undirected,88.0
+Robert Lewandowski,Christopher Nkunku,Undirected,88.0
+Robert Lewandowski,Diogo Jota,Undirected,87.5
+Robert Lewandowski,Memphis Depay,Undirected,87.0
+Mohamed Salah,Andrew Robertson,Undirected,87.5
+Mohamed Salah,João Cancelo,Undirected,87.5
+Mohamed Salah,Marcos Acuña,Undirected,87.0
+Mohamed Salah,Theo Hernández,Undirected,87.0
+Vini Jr.,Trent Alexander-Arnold,Undirected,87.5
+Vini Jr.,Giovanni Di Lorenzo,Undirected,87.0
+Vini Jr.,Kieran Trippier,Undirected,87.0
+Vini Jr.,Achraf Hakimi,Undirected,86.5
+Vini Jr.,Reece James,Undirected,86.5
+Neymar Jr,Trent Alexander-Arnold,Undirected,87.5
+Neymar Jr,Giovanni Di Lorenzo,Undirected,87.0
+Neymar Jr,Kieran Trippier,Undirected,87.0
+Neymar Jr,Achraf Hakimi,Undirected,86.5
+Neymar Jr,Reece James,Undirected,86.5
+Antoine Griezmann,Bernardo Silva,Undirected,88.0
+Antoine Griezmann,Federico Valverde,Undirected,88.0
+Antoine Griezmann,Luka Modrić,Undirected,87.5
+Antoine Griezmann,Frenkie de Jong,Undirected,87.5
+Antoine Griezmann,Jude Bellingham,Undirected,87.0
+Antoine Griezmann,Pedri,Undirected,87.0
+Antoine Griezmann,Nicolò Barella,Undirected,87.0
+Antoine Griezmann,İlkay Gündoğan,Undirected,87.0
+Antoine Griezmann,Sergej Milinković-Savić,Undirected,87.0
+Antoine Griezmann,Parejo,Undirected,87.0
+Antoine Griezmann,Toni Kroos,Undirected,87.0
+Antoine Griezmann,Hakan Çalhanoğlu,Undirected,86.5
+Antoine Griezmann,Leon Goretzka,Undirected,86.5
+Antoine Griezmann,Thiago,Undirected,86.0
+Antoine Griezmann,Rodrigo Javier De Paul,Undirected,86.0
+Antoine Griezmann,Bruno Guimarães,Undirected,86.0
+Antoine Griezmann,Paulo Dybala,Undirected,87.0
+Antoine Griezmann,Sadio Mané,Undirected,87.0
+Antoine Griezmann,Christopher Nkunku,Undirected,87.0
+Antoine Griezmann,Diogo Jota,Undirected,86.5
+Antoine Griezmann,Memphis Depay,Undirected,86.0
+Victor Osimhen,Bernardo Silva,Undirected,88.0
+Victor Osimhen,Federico Valverde,Undirected,88.0
+Victor Osimhen,Luka Modrić,Undirected,87.5
+Victor Osimhen,Frenkie de Jong,Undirected,87.5
+Victor Osimhen,Jude Bellingham,Undirected,87.0
+Victor Osimhen,Pedri,Undirected,87.0
+Victor Osimhen,Nicolò Barella,Undirected,87.0
+Victor Osimhen,İlkay Gündoğan,Undirected,87.0
+Victor Osimhen,Sergej Milinković-Savić,Undirected,87.0
+Victor Osimhen,Parejo,Undirected,87.0
+Victor Osimhen,Toni Kroos,Undirected,87.0
+Victor Osimhen,Hakan Çalhanoğlu,Undirected,86.5
+Victor Osimhen,Leon Goretzka,Undirected,86.5
+Victor Osimhen,Thiago,Undirected,86.0
+Victor Osimhen,Rodrigo Javier De Paul,Undirected,86.0
+Victor Osimhen,Bruno Guimarães,Undirected,86.0
+Victor Osimhen,Paulo Dybala,Undirected,87.0
+Victor Osimhen,Sadio Mané,Undirected,87.0
+Victor Osimhen,Christopher Nkunku,Undirected,87.0
+Victor Osimhen,Diogo Jota,Undirected,86.5
+Victor Osimhen,Memphis Depay,Undirected,86.0
+Bernardo Silva,Lautaro Martínez,Undirected,87.5
+Bernardo Silva,Cristiano Ronaldo,Undirected,87.0
+Bernardo Silva,Iago Aspas,Undirected,86.5
+Bernardo Silva,Ciro Immobile,Undirected,86.5
+Bernardo Silva,Gabriel Jesus,Undirected,86.0
+Bernardo Silva,Andrew Robertson,Undirected,87.0
+Bernardo Silva,João Cancelo,Undirected,87.0
+Bernardo Silva,Marcos Acuña,Undirected,86.5
+Bernardo Silva,Theo Hernández,Undirected,86.5
+Federico Valverde,Lautaro Martínez,Undirected,87.5
+Federico Valverde,Cristiano Ronaldo,Undirected,87.0
+Federico Valverde,Iago Aspas,Undirected,86.5
+Federico Valverde,Ciro Immobile,Undirected,86.5
+Federico Valverde,Gabriel Jesus,Undirected,86.0
+Federico Valverde,Andrew Robertson,Undirected,87.0
+Federico Valverde,João Cancelo,Undirected,87.0
+Federico Valverde,Marcos Acuña,Undirected,86.5
+Federico Valverde,Theo Hernández,Undirected,86.5
+Luka Modrić,Lautaro Martínez,Undirected,87.0
+Luka Modrić,Cristiano Ronaldo,Undirected,86.5
+Luka Modrić,Iago Aspas,Undirected,86.0
+Luka Modrić,Ciro Immobile,Undirected,86.0
+Luka Modrić,Gabriel Jesus,Undirected,85.5
+Luka Modrić,Andrew Robertson,Undirected,86.5
+Luka Modrić,João Cancelo,Undirected,86.5
+Luka Modrić,Marcos Acuña,Undirected,86.0
+Luka Modrić,Theo Hernández,Undirected,86.0
+Frenkie de Jong,Lautaro Martínez,Undirected,87.0
+Frenkie de Jong,Cristiano Ronaldo,Undirected,86.5
+Frenkie de Jong,Iago Aspas,Undirected,86.0
+Frenkie de Jong,Ciro Immobile,Undirected,86.0
+Frenkie de Jong,Gabriel Jesus,Undirected,85.5
+Frenkie de Jong,Andrew Robertson,Undirected,86.5
+Frenkie de Jong,João Cancelo,Undirected,86.5
+Frenkie de Jong,Marcos Acuña,Undirected,86.0
+Frenkie de Jong,Theo Hernández,Undirected,86.0
+Lautaro Martínez,Jude Bellingham,Undirected,86.5
+Lautaro Martínez,Pedri,Undirected,86.5
+Lautaro Martínez,Nicolò Barella,Undirected,86.5
+Lautaro Martínez,İlkay Gündoğan,Undirected,86.5
+Lautaro Martínez,Sergej Milinković-Savić,Undirected,86.5
+Lautaro Martínez,Parejo,Undirected,86.5
+Lautaro Martínez,Toni Kroos,Undirected,86.5
+Lautaro Martínez,Hakan Çalhanoğlu,Undirected,86.0
+Lautaro Martínez,Leon Goretzka,Undirected,86.0
+Lautaro Martínez,Thiago,Undirected,85.5
+Lautaro Martínez,Rodrigo Javier De Paul,Undirected,85.5
+Lautaro Martínez,Bruno Guimarães,Undirected,85.5
+Lautaro Martínez,Paulo Dybala,Undirected,86.5
+Lautaro Martínez,Sadio Mané,Undirected,86.5
+Lautaro Martínez,Christopher Nkunku,Undirected,86.5
+Lautaro Martínez,Diogo Jota,Undirected,86.0
+Lautaro Martínez,Memphis Depay,Undirected,85.5
+Heung Min Son,Trent Alexander-Arnold,Undirected,86.5
+Heung Min Son,Giovanni Di Lorenzo,Undirected,86.0
+Heung Min Son,Kieran Trippier,Undirected,86.0
+Heung Min Son,Achraf Hakimi,Undirected,85.5
+Heung Min Son,Reece James,Undirected,85.5
+Ousmane Dembélé,Andrew Robertson,Undirected,86.0
+Ousmane Dembélé,João Cancelo,Undirected,86.0
+Ousmane Dembélé,Marcos Acuña,Undirected,85.5
+Ousmane Dembélé,Theo Hernández,Undirected,85.5
+Bukayo Saka,Andrew Robertson,Undirected,86.0
+Bukayo Saka,João Cancelo,Undirected,86.0
+Bukayo Saka,Marcos Acuña,Undirected,85.5
+Bukayo Saka,Theo Hernández,Undirected,85.5
+Jude Bellingham,Cristiano Ronaldo,Undirected,86.0
+Jude Bellingham,Iago Aspas,Undirected,85.5
+Jude Bellingham,Ciro Immobile,Undirected,85.5
+Jude Bellingham,Gabriel Jesus,Undirected,85.0
+Jude Bellingham,Andrew Robertson,Undirected,86.0
+Jude Bellingham,João Cancelo,Undirected,86.0
+Jude Bellingham,Marcos Acuña,Undirected,85.5
+Jude Bellingham,Theo Hernández,Undirected,85.5
+Rafael Leão,Trent Alexander-Arnold,Undirected,86.0
+Rafael Leão,Giovanni Di Lorenzo,Undirected,85.5
+Rafael Leão,Kieran Trippier,Undirected,85.5
+Rafael Leão,Achraf Hakimi,Undirected,85.0
+Rafael Leão,Reece James,Undirected,85.0
+Pedri,Cristiano Ronaldo,Undirected,86.0
+Pedri,Iago Aspas,Undirected,85.5
+Pedri,Ciro Immobile,Undirected,85.5
+Pedri,Gabriel Jesus,Undirected,85.0
+Pedri,Andrew Robertson,Undirected,86.0
+Pedri,João Cancelo,Undirected,86.0
+Pedri,Marcos Acuña,Undirected,85.5
+Pedri,Theo Hernández,Undirected,85.5
+Nicolò Barella,Cristiano Ronaldo,Undirected,86.0
+Nicolò Barella,Iago Aspas,Undirected,85.5
+Nicolò Barella,Ciro Immobile,Undirected,85.5
+Nicolò Barella,Gabriel Jesus,Undirected,85.0
+Nicolò Barella,Andrew Robertson,Undirected,86.0
+Nicolò Barella,João Cancelo,Undirected,86.0
+Nicolò Barella,Marcos Acuña,Undirected,85.5
+Nicolò Barella,Theo Hernández,Undirected,85.5
+Paulo Dybala,Cristiano Ronaldo,Undirected,86.0
+Paulo Dybala,Iago Aspas,Undirected,85.5
+Paulo Dybala,Ciro Immobile,Undirected,85.5
+Paulo Dybala,Gabriel Jesus,Undirected,85.0
+İlkay Gündoğan,Cristiano Ronaldo,Undirected,86.0
+İlkay Gündoğan,Iago Aspas,Undirected,85.5
+İlkay Gündoğan,Ciro Immobile,Undirected,85.5
+İlkay Gündoğan,Gabriel Jesus,Undirected,85.0
+İlkay Gündoğan,Andrew Robertson,Undirected,86.0
+İlkay Gündoğan,João Cancelo,Undirected,86.0
+İlkay Gündoğan,Marcos Acuña,Undirected,85.5
+İlkay Gündoğan,Theo Hernández,Undirected,85.5
+Sergej Milinković-Savić,Cristiano Ronaldo,Undirected,86.0
+Sergej Milinković-Savić,Iago Aspas,Undirected,85.5
+Sergej Milinković-Savić,Ciro Immobile,Undirected,85.5
+Sergej Milinković-Savić,Gabriel Jesus,Undirected,85.0
+Sergej Milinković-Savić,Andrew Robertson,Undirected,86.0
+Sergej Milinković-Savić,João Cancelo,Undirected,86.0
+Sergej Milinković-Savić,Marcos Acuña,Undirected,85.5
+Sergej Milinković-Savić,Theo Hernández,Undirected,85.5
+Khvicha Kvaratskhelia,Trent Alexander-Arnold,Undirected,86.0
+Khvicha Kvaratskhelia,Giovanni Di Lorenzo,Undirected,85.5
+Khvicha Kvaratskhelia,Kieran Trippier,Undirected,85.5
+Khvicha Kvaratskhelia,Achraf Hakimi,Undirected,85.0
+Khvicha Kvaratskhelia,Reece James,Undirected,85.0
+Andrew Robertson,Parejo,Undirected,86.0
+Andrew Robertson,Toni Kroos,Undirected,86.0
+Andrew Robertson,Hakan Çalhanoğlu,Undirected,85.5
+Andrew Robertson,Leon Goretzka,Undirected,85.5
+Andrew Robertson,Thiago,Undirected,85.0
+Andrew Robertson,Rodrigo Javier De Paul,Undirected,85.0
+Andrew Robertson,Bruno Guimarães,Undirected,85.0
+Andrew Robertson,Domenico Berardi,Undirected,85.5
+Andrew Robertson,Rodrygo,Undirected,85.5
+Andrew Robertson,Raphinha,Undirected,85.0
+Parejo,Cristiano Ronaldo,Undirected,86.0
+Parejo,Iago Aspas,Undirected,85.5
+Parejo,Ciro Immobile,Undirected,85.5
+Parejo,Gabriel Jesus,Undirected,85.0
+Parejo,João Cancelo,Undirected,86.0
+Parejo,Marcos Acuña,Undirected,85.5
+Parejo,Theo Hernández,Undirected,85.5
+Sadio Mané,Cristiano Ronaldo,Undirected,86.0
+Sadio Mané,Iago Aspas,Undirected,85.5
+Sadio Mané,Ciro Immobile,Undirected,85.5
+Sadio Mané,Gabriel Jesus,Undirected,85.0
+Toni Kroos,Cristiano Ronaldo,Undirected,86.0
+Toni Kroos,Iago Aspas,Undirected,85.5
+Toni Kroos,Ciro Immobile,Undirected,85.5
+Toni Kroos,Gabriel Jesus,Undirected,85.0
+Toni Kroos,João Cancelo,Undirected,86.0
+Toni Kroos,Marcos Acuña,Undirected,85.5
+Toni Kroos,Theo Hernández,Undirected,85.5
+Christopher Nkunku,Cristiano Ronaldo,Undirected,86.0
+Christopher Nkunku,Iago Aspas,Undirected,85.5
+Christopher Nkunku,Ciro Immobile,Undirected,85.5
+Christopher Nkunku,Gabriel Jesus,Undirected,85.0
+João Cancelo,Hakan Çalhanoğlu,Undirected,85.5
+João Cancelo,Leon Goretzka,Undirected,85.5
+João Cancelo,Thiago,Undirected,85.0
+João Cancelo,Rodrigo Javier De Paul,Undirected,85.0
+João Cancelo,Bruno Guimarães,Undirected,85.0
+João Cancelo,Domenico Berardi,Undirected,85.5
+João Cancelo,Rodrygo,Undirected,85.5
+João Cancelo,Raphinha,Undirected,85.0
+Cristiano Ronaldo,Hakan Çalhanoğlu,Undirected,85.5
+Cristiano Ronaldo,Leon Goretzka,Undirected,85.5
+Cristiano Ronaldo,Thiago,Undirected,85.0
+Cristiano Ronaldo,Rodrigo Javier De Paul,Undirected,85.0
+Cristiano Ronaldo,Bruno Guimarães,Undirected,85.0
+Cristiano Ronaldo,Diogo Jota,Undirected,85.5
+Cristiano Ronaldo,Memphis Depay,Undirected,85.0
+Trent Alexander-Arnold,Jack Grealish,Undirected,85.5
+Trent Alexander-Arnold,Phil Foden,Undirected,85.5
+Trent Alexander-Arnold,Marcus Rashford,Undirected,85.5
+Trent Alexander-Arnold,Luis Díaz,Undirected,85.0
+Jack Grealish,Giovanni Di Lorenzo,Undirected,85.0
+Jack Grealish,Kieran Trippier,Undirected,85.0
+Marcos Acuña,Hakan Çalhanoğlu,Undirected,85.0
+Marcos Acuña,Leon Goretzka,Undirected,85.0
+Marcos Acuña,Domenico Berardi,Undirected,85.0
+Marcos Acuña,Rodrygo,Undirected,85.0
+Iago Aspas,Hakan Çalhanoğlu,Undirected,85.0
+Iago Aspas,Leon Goretzka,Undirected,85.0
+Iago Aspas,Diogo Jota,Undirected,85.0
+Domenico Berardi,Theo Hernández,Undirected,85.0
+Hakan Çalhanoğlu,Ciro Immobile,Undirected,85.0
+Hakan Çalhanoğlu,Theo Hernández,Undirected,85.0
+Giovanni Di Lorenzo,Phil Foden,Undirected,85.0
+Giovanni Di Lorenzo,Marcus Rashford,Undirected,85.0
+Phil Foden,Kieran Trippier,Undirected,85.0
+Leon Goretzka,Ciro Immobile,Undirected,85.0
+Leon Goretzka,Theo Hernández,Undirected,85.0
+Theo Hernández,Rodrygo,Undirected,85.0
+Ciro Immobile,Diogo Jota,Undirected,85.0
+Marcus Rashford,Kieran Trippier,Undirected,85.0
