@@ -65,6 +65,24 @@ O modelo de artigo a ser utilizado será o IEEE Conference Template disponível 
 
 - **Análise Temporal:** Se você tiver dados ao longo do tempo, pode analisar como as relações entre jogadores mudam ao longo das temporadas.
 
+
+
+
 ### Conclusão:
 
 Esta abordagem permite uma análise sofisticada das interações entre jogadores e pode revelar insights sobre dinâmicas de equipe, compatibilidade entre jogadores e identificar jogadores-chave em diferentes estratégias de jogo. A aplicação de técnicas de análise de redes e a escolha cuidadosa das estatísticas a serem consideradas são fundamentais para o sucesso desta modelagem.
+
+
+- Agrupar as posições gerais.
+- Poda 100 players por posição. 
+- Thresshold para cada posição.
+- Conexões, criar política.
+- Cluster de maior conectividade.
+- Avaliar quantos jogadores tem de cada posição.
+- Cluster de maior conectividade,
+    - Qual a maior qntd de posição, 
+    - Mais atacante e mais meias, 
+    - Verifico se a conectividade é real.
+    ou
+    - Do maior cluster pegar os k mais conectados e verificar se fazem parte do mesmo time ou qual a qntd relacionada ao mesmo time.
+    - verificar se a tendência esta ligado ao cluster.
