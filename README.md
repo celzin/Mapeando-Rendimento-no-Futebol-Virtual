@@ -73,16 +73,42 @@ O modelo de artigo a ser utilizado será o IEEE Conference Template disponível 
 Esta abordagem permite uma análise sofisticada das interações entre jogadores e pode revelar insights sobre dinâmicas de equipe, compatibilidade entre jogadores e identificar jogadores-chave em diferentes estratégias de jogo. A aplicação de técnicas de análise de redes e a escolha cuidadosa das estatísticas a serem consideradas são fundamentais para o sucesso desta modelagem.
 
 
+    'CB': 'Zagueiro Central',
+    'LB': 'Zagueiro Esquerdo',
+    'RB': 'Zagueiro Direito',
+    'RWB': 'Lateral Direito',
+    'LWB': 'Lateral Esquerdo',
+    'CDM': 'Meia-Central', 'CM': 'Meia-Central', 'CAM': 'Meia-Central',
+    'ROM': 'Meia-Direita', 'RM': 'Meia-Direita', 'RWM': 'Meia-Direita', 'RW': 'Meia-Direita',
+    'LOM': 'Meia-Esquerda', 'LM': 'Meia-Esquerda', 'LWM': 'Meia-Esquerda', 'LW': 'Meia-Esquerda',
+    'LF': 'Ponta-Esquerda', 'LS': 'Ponta-Esquerda',
+    'ST': 'Atacante', 'CF': 'Atacante',
+    'RF': 'Ponta-Direita', 'RS': 'Ponta-Direita',
+
+Mudanças Necessárias:
+
+Parte 1:
+
 - Agrupar as posições gerais.
-- Poda 100 players por posição. 
-- Thresshold para cada posição.
-- Conexões, criar política.
-- Cluster de maior conectividade.
-- Avaliar quantos jogadores tem de cada posição.
-- Cluster de maior conectividade,
-    - Qual a maior qntd de posição, 
-    - Mais atacante e mais meias, 
-    - Verifico se a conectividade é real.
+
+- Podar aproximadamente 100 players por posição com mais overall do .csv:
+    - Atacantes : 33/33/33 : atacantes, pontas direitas e pontas esquerdos
+    - Meias : 33/33/33 : meia centrais, direitos e esquerdos
+    - Zagueiros : 33/33/33 : zagueiros centrais, direitos e esquerdos
+    - Laterais : 50/50 : laterais direitos e esquerdos
+
+- Ciar um Thresshold para link de cada posição.
+    - Criar política de conexões (zagueiro liga com meia e lateral, etc)
+
+Parte 2:
+
+- Criar 'Cluster de maior conectividade':
+    - Avaliar quantos jogadores tem de cada posição.
+    - Qual a maior qntd de posição, (após analisar o treshold) 
+        - Ex: Mais atacante e mais meias, 
+        - Verifico se a conectividade é real (atacantes são mais relevantes)
     ou
-    - Do maior cluster pegar os k mais conectados e verificar se fazem parte do mesmo time ou qual a qntd relacionada ao mesmo time.
-    - verificar se a tendência esta ligado ao cluster.
+    - A partir do 'maior cluster' pegar os 'top k' mais conectados e verificar se fazem parte do mesmo time ou qual a qntd relacionada ao mesmo time.
+        - Verificar se a base do jogo tendencia algo time e se isso esta ligado ao cluster.
+
+
