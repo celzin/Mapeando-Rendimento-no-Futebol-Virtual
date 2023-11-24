@@ -1,52 +1,401 @@
 Name,Club,Position,Overall
 Kylian Mbappé,Paris SG,ST,91
 Erling Haaland,Manchester City,ST,91
-Harry Kane,FC Bayern München,ST,90
 Lionel Messi,Inter Miami CF,CF,90
 Karim Benzema,Al Ittihad,CF,90
-Sadio Mané,Al Nassr,CF,86
-Rodri,Manchester City,CDM,89
-Kevin De Bruyne,Manchester City,CM,91
-Bruno Fernandes,Manchester Utd,CAM,88
-Riyad Mahrez,Al Ahli,RM,86
+Harry Kane,FC Bayern München,ST,90
+Robert Lewandowski,FC Barcelona,ST,90
 Mohamed Salah,Liverpool,RW,89
-Kingsley Coman,FC Bayern München,LM,85
 Vini Jr.,Real Madrid,LW,89
+Neymar Jr,Al Hilal,LW,89
+Victor Osimhen,Napoli FC,ST,88
+Antoine Griezmann,Atlético de Madrid,ST,88
+Lautaro Martínez,Inter,ST,87
+Heung Min Son,Spurs,LW,87
+Sadio Mané,Al Nassr,CF,86
+Christopher Nkunku,Chelsea,CF,86
+Cristiano Ronaldo,Al Nassr,ST,86
+Khvicha Kvaratskhelia,Napoli FC,LW,86
+Paulo Dybala,Roma FC,CF,86
+Bukayo Saka,Arsenal,RW,86
+Rafael Leão,Milan,LW,86
+Ousmane Dembélé,Paris SG,RW,86
+Ciro Immobile,Latium,ST,85
+Marcus Rashford,Manchester Utd,LW,85
+Diogo Jota,Liverpool,CF,85
+Rodrygo,Real Madrid,RW,85
+Jack Grealish,Manchester City,LW,85
+Iago Aspas,RC Celta,ST,85
+Domenico Berardi,Sassuolo,RW,85
+Phil Foden,Manchester City,LW,85
+Randal Kolo Muani,Paris SG,ST,84
+Romelu Lukaku,Roma FC,ST,84
+Gabriel Martinelli,Arsenal,LW,84
+Memphis Depay,Atlético de Madrid,CF,84
+Raphinha,FC Barcelona,RW,84
+Luis Díaz,Liverpool,LW,84
+Gabriel Jesus,Arsenal,ST,84
+Alexandre Lacazette,OL,ST,83
+Morata,Atlético de Madrid,ST,83
+Gerard Moreno,Villarreal CF,ST,83
+Patrik Schick,Leverkusen,ST,83
+Raheem Sterling,Chelsea,LW,83
+Dušan Vlahović,Juventus,ST,83
+Borja Iglesias,Real Betis,ST,83
+Edin Džeko,Fenerbahçe,ST,83
+Marco Asensio,Paris SG,RW,83
+Wissam Ben Yedder,AS Monaco,ST,83
+Ángel Di María,SL Benfica,CF,83
+Sébastien Haller,Borussia Dortmund,ST,83
+Cody Gakpo,Liverpool,CF,83
+Rafa,SL Benfica,CF,83
+Loïs Openda,RB Leipzig,ST,82
+Pedro Gonçalves,Sporting CP,LW,82
+Joselu,Real Madrid,ST,82
+Darwin Núñez,Liverpool,ST,82
+Jadon Sancho,Manchester Utd,LW,82
+Timo Werner,RB Leipzig,ST,82
+Dušan Tadić,Fenerbahçe,LW,82
+Mehdi Taremi,FC Porto,ST,82
+Ferran Torres,FC Barcelona,LW,82
+Enes Ünal,Getafe CF,ST,82
+Callum Wilson,Newcastle Utd,ST,82
+Mattia Zaccagni,Latium,LW,82
+Roberto Firmino,Al Ahli,CF,82
+Ángel Correa,Atlético de Madrid,ST,82
+Boulaye Dia,Salernitana,ST,82
+Youssef En-Nesyri,Sevilla FC,ST,82
+Olivier Giroud,Milan,ST,82
+Matteo Politano,Napoli FC,RW,81
+Felipe Anderson,Latium,RW,81
+Hirving Lozano,PSV,RW,81
+Arkadiusz Milik,Juventus,ST,81
+Dries Mertens,Galatasaray,CF,81
+Antony,Manchester Utd,RW,81
+Ademola Lookman,Bergamo Calcio,ST,81
+Duván Zapata,Torino,ST,81
+Wilfried Zaha,Galatasaray,LW,81
+Leandro Trossard,Arsenal,CF,81
+Anderson Talisca,Al Nassr,CF,81
+Gaëtan Laborde,OGC Nice,ST,81
+Samuel Chukwueze,Milan,RW,81
+Miguel Almirón,Newcastle Utd,RW,81
+Dejan Kulusevski,Spurs,RW,81
+Andrej Kramarić,TSG Hoffenheim,CF,81
+Arnaut Danjuma,Everton,ST,81
+Alexander Isak,Newcastle Utd,ST,81
+Lorenzo Insigne,Toronto FC,LW,81
+Beto,Everton,ST,81
+Jonathan David,LOSC Lille,ST,81
+João Félix,FC Barcelona,CF,81
+Nicolás González,Fiorentina,RW,81
+Hany Mukhtar,Nashville SC,CF,80
+Vedat Muriqi,RCD Mallorca,ST,80
+Lucas Ocampos,Sevilla FC,RW,80
+Arthur Cabral,SL Benfica,ST,80
+Anthony Martial,Manchester Utd,ST,80
+Armand Laurienté,Sassuolo,LW,80
+Erik Lamela,Sevilla FC,RW,80
+Gonçalo Ramos,Paris SG,ST,80
+Hakim Ziyech,Galatasaray,RW,80
+Ollie Watkins,Aston Villa,ST,80
+Kevin De Bruyne,Manchester City,CM,91
+Rodri,Manchester City,CDM,89
+Casemiro,Manchester Utd,CDM,89
+Bernardo Silva,Manchester City,CM,88
+Federico Valverde,Real Madrid,CM,88
+Joshua Kimmich,FC Bayern München,CDM,88
+Bruno Fernandes,Manchester Utd,CAM,88
+Luka Modrić,Real Madrid,CM,87
+Frenkie de Jong,FC Barcelona,CM,87
+Martin Ødegaard,Arsenal,CAM,87
+Parejo,Villarreal CF,CM,86
+Toni Kroos,Real Madrid,CM,86
+N'Golo Kanté,Al Ittihad,CDM,86
+Sergej Milinković-Savić,Al Hilal,CM,86
+İlkay Gündoğan,FC Barcelona,CM,86
+Pedri,FC Barcelona,CM,86
+Jude Bellingham,Real Madrid,CM,86
+Riyad Mahrez,Al Ahli,RM,86
+Jamal Musiala,FC Bayern München,CAM,86
+Nicolò Barella,Inter,CM,86
+Sandro Tonali,Newcastle Utd,CDM,86
+Thomas Partey,Arsenal,CDM,85
+Declan Rice,Arsenal,CDM,85
+Florian Wirtz,Leverkusen,CAM,85
+Leon Goretzka,FC Bayern München,CM,85
+Hakan Çalhanoğlu,Inter,CM,85
+Kingsley Coman,FC Bayern München,LM,85
+Adrien Rabiot,Juventus,CM,84
+Marcos Llorente,Atlético de Madrid,RM,84
+Stanislav Lobotka,Napoli FC,CM,84
+Mikel Merino,Real Sociedad,CM,84
+Thomas Müller,FC Bayern München,CAM,84
+Koke,Atlético de Madrid,CDM,84
+Luis Alberto,Latium,CM,84
+Leroy Sané,FC Bayern München,RM,84
+Aurélien Tchouaméni,Real Madrid,CDM,84
+James Maddison,Spurs,CAM,84
+Pierre-Emile Højbjerg,Spurs,CDM,84
+Moussa Diaby,Aston Villa,RM,84
+Thiago,Liverpool,CM,84
+Ismaël Bennacer,Milan,CDM,84
+Julian Brandt,Borussia Dortmund,CAM,84
+Yannick Carrasco,Al Shabab,LM,84
+Rúben Neves,Al Hilal,CDM,84
+Rodrigo Javier De Paul,Atlético de Madrid,CM,84
+Federico Chiesa,Juventus,LM,84
+Serge Gnabry,FC Bayern München,RM,84
+Bruno Guimarães,Newcastle Utd,CM,84
+Fabinho,Al Ittihad,CDM,84
+Lorenzo Pellegrini,Roma FC,CAM,83
+Konrad Laimer,FC Bayern München,CDM,83
+Dani Olmo,RB Leipzig,CAM,83
+Oyarzabal,Real Sociedad,LM,83
+Gavi,FC Barcelona,CM,83
+Palhinha,Fulham,CDM,83
+Piotr Zieliński,Napoli FC,CM,83
+Marco Reus,Borussia Dortmund,CAM,83
+Guido Rodríguez,Real Betis,CDM,83
+André-Franck Zambo Anguissa,Napoli FC,CDM,83
+Filip Kostić,Juventus,LM,83
+Jonas Hofmann,Leverkusen,CAM,83
+Marcelo Brozović,Al Nassr,CDM,83
+Emre Can,Borussia Dortmund,CDM,83
+Sergi Darder,RCD Mallorca,CM,83
+Sergio Busquets,Inter Miami CF,CDM,83
+Christian Eriksen,Manchester Utd,CM,83
+Nabil Fekir,Real Betis,CAM,83
+Jorginho,Arsenal,CDM,83
+Enzo Fernández,Chelsea,CM,83
+Fernando,Sevilla FC,CDM,82
+Isi Palazón,Rayo Vallecano,RM,82
+João Mário,SL Benfica,RM,82
+Dominik Szoboszlai,Liverpool,CAM,82
+Youri Tielemans,Aston Villa,CM,82
+Lucas Torreira,Galatasaray,CDM,82
+Viktor Tsygankov,Girona FC,RM,82
+Alexis Mac Allister,Liverpool,CM,82
+Granit Xhaka,Leverkusen,CM,82
+Donyell Malen,Borussia Dortmund,RM,82
+Manuel Locatelli,Juventus,CDM,82
+Seko Fofana,Al Nassr,CM,82
+Thomas Lemar,Atlético de Madrid,CM,82
+Robert Andrich,Leverkusen,CDM,82
+Joelinton,Newcastle Utd,CM,82
+Rodrigo Bentancur,Spurs,CM,82
+Eduardo Camavinga,Real Madrid,CDM,82
+Ricardo Horta,SC Braga,CAM,82
+Otávio,Al Nassr,RM,82
+Kai Havertz,Arsenal,CAM,82
+Mateo Kovačić,Manchester City,CM,82
+Orkun Kökçü,SL Benfica,CM,82
+Franck Yannick Kessié,Al Ahli,CDM,82
+Vincenzo Grifo,SC Freiburg,LM,82
+Mario Götze,Frankfurt,CAM,82
+Henrikh Mkhitaryan,Inter,CAM,81
+Ivan Rakitić,Sevilla FC,CM,81
+Muniain,Athletic Club,CAM,81
+Mason Mount,Manchester Utd,CAM,81
+Brais Méndez,Real Sociedad,CM,81
+Nemanja Matić,Stade Rennais FC,CDM,81
 Rúben Dias,Manchester City,CB,89
 Virgil van Dijk,Liverpool,CB,89
 Marquinhos,Paris SG,CB,87
 Éder Militão,Real Madrid,CB,86
 Matthijs de Ligt,FC Bayern München,CB,86
 Ronald Araujo,FC Barcelona,CB,86
+Antonio Rüdiger,Real Madrid,CB,85
+Aymeric Laporte,Al Nassr,CB,85
+John Stones,Manchester City,CB,85
+Raphaël Varane,Manchester Utd,CB,85
+Jules Koundé,FC Barcelona,CB,85
+Alessandro Bastoni,Inter,CB,85
+David Alaba,Real Madrid,CB,85
+Kalidou Koulibaly,Al Hilal,CB,84
+Lisandro Martínez,Manchester Utd,CB,84
+Milan Škriniar,Paris SG,CB,84
+Bremer,Juventus,CB,84
+Chris Smalling,Roma FC,CB,84
+Niklas Süle,Borussia Dortmund,CB,84
+Fikayo Tomori,Milan,CB,84
+Kim Min Jae,FC Bayern München,CB,84
+Lucas Hernández,Paris SG,CB,84
+Thiago Silva,Chelsea,CB,84
+Grimaldo,Leverkusen,LWB,84
+Matthias Ginter,SC Freiburg,CB,84
+Gabriel,Arsenal,CB,84
+Gianluca Mancini,Roma FC,CB,83
+Willi Orban,RB Leipzig,CB,83
+Benjamin Pavard,Inter,CB,83
+Alessio Romagnoli,Latium,CB,83
+William Saliba,Arsenal,CB,83
+Nico Schlotterbeck,Borussia Dortmund,CB,83
+Nacho Fernández,Real Madrid,CB,83
+Mats Hummels,Borussia Dortmund,CB,83
+Sven Botman,Newcastle Utd,CB,83
+Andreas Christensen,FC Barcelona,CB,83
+Pau Torres,Aston Villa,CB,83
+José María Giménez,Atlético de Madrid,CB,83
+Jeremie Frimpong,Leverkusen,RWB,83
+Francesco Acerbi,Inter,CB,83
+Cristian Romero,Spurs,CB,82
+Nicolás Otamendi,SL Benfica,CB,82
+Iñigo Martínez,FC Barcelona,CB,82
+Stefan Savić,Atlético de Madrid,CB,82
+Fabian Schär,Newcastle Utd,CB,82
+Dayot Upamecano,FC Bayern München,CB,82
+Manuel Akanji,Manchester City,CB,82
+Stefan de Vrij,Inter,CB,82
+Federico Dimarco,Inter,LWB,82
+Robin Le Normand,Real Sociedad,CB,82
+David García,CA Osasuna,CB,82
+Presnel Kimpembe,Paris SG,CB,82
+Mario Hermoso,Atlético de Madrid,CB,82
+Joško Gvardiol,Manchester City,CB,82
+Amir Rrahmani,Napoli FC,CB,81
+Edmond Tapsoba,Leverkusen,CB,81
+Pepe,FC Porto,CB,81
+Jonathan Tah,Leverkusen,CB,81
+Diego Carlos,Aston Villa,CB,81
+Raúl Albiol,Villarreal CF,CB,81
+Sebastián Coates,Sporting CP,CB,81
+Jonathan Clauss,OM,RWB,81
+Yeray,Athletic Club,CB,81
+Toby Alderweireld,Royal Antwerp FC,CB,81
+Nathan Aké,Manchester City,CB,81
+Danilo,Juventus,CB,81
+Ibrahima Konaté,Liverpool,CB,81
+Simon Kjær,Milan,CB,81
+Lewis Dunk,Brighton,CB,81
+Denzel Dumfries,Inter,RWB,81
+Facundo Medina,RC Lens,CB,80
+Chancel Mbemba,OM,CB,80
+Joel Matip,Liverpool,CB,80
+Victor Lindelöf,Manchester Utd,CB,80
+Luiz Felipe,Al Ittihad,CB,80
+Zubeldia,Real Sociedad,CB,80
+Rafael Tolói,Bergamo Calcio,CB,80
+Leonardo Spinazzola,Roma FC,LWB,80
+Giorgio Chiellini,LAFC,CB,80
+Leonardo Bonucci,Union Berlin,CB,80
+Matteo Darmian,Inter,CB,80
+Kevin Danso,RC Lens,CB,80
+Ibañez,Al Ahli,CB,80
+Dávid Hancko,Feyenoord,CB,80
+Nemanja Gudelj,Sevilla FC,CB,80
+Aritz Elustondo,Real Sociedad,CB,80
+Ethan Pinnock,Brentford,CB,79
+Matheus Reis,Sporting CP,CB,79
+Tyrone Mings,Aston Villa,CB,79
+Nikola Milenković,Fiorentina,CB,79
+Ben Mee,Brentford,CB,79
+Harry Maguire,Manchester Utd,CB,79
+David López,Girona FC,CB,79
+Philipp Lienhart,SC Freiburg,CB,79
+Ezri Konsa,Aston Villa,CB,79
+Kurt Zouma,West Ham,CB,79
+Davide Zappacosta,Bergamo Calcio,LWB,79
+Vivian,Athletic Club,CB,79
+Jan Vertonghen,RSC Anderlecht,CB,79
+Samuel Umtiti,LOSC Lille,CB,79
 Andrew Robertson,Liverpool,LB,86
 João Cancelo,FC Barcelona,LB,86
 Theo Hernández,Milan,LB,85
 Marcos Acuña,Sevilla FC,LB,85
 Luke Shaw,Manchester Utd,LB,83
 Jordi Alba,Inter Miami CF,LB,83
+Alphonso Davies,FC Bayern München,LB,83
+Ferland Mendy,Real Madrid,LB,82
+Nuno Mendes,Paris SG,LB,82
+Javi Galán,Atlético de Madrid,LB,82
+Raphaël Guerreiro,FC Bayern München,LB,82
+Gayà,Valencia CF,LB,82
+Reinildo,Atlético de Madrid,LB,81
+Mário Rui,Napoli FC,LB,81
+Ben Chilwell,Chelsea,LB,81
+Balde,FC Barcelona,LB,81
+Álex Moreno,Aston Villa,LB,80
+Adam Marušić,Latium,LB,80
+Oleksandr Zinchenko,Arsenal,LB,80
+Kieran Tierney,Real Sociedad,LB,80
+Nicolás Tagliafico,OL,LB,80
+Cristiano Biraghi,Fiorentina,LB,80
+Ramy Bensebaini,Borussia Dortmund,LB,80
+Pervis Estupiñán,Brighton,LB,80
+Alex Telles,Al Nassr,LB,79
+Renan Lodi,OM,LB,79
+Yuri Berchiche,Athletic Club,LB,79
+Marcos Alonso,FC Barcelona,LB,79
+Christian Günter,SC Freiburg,LB,79
+Cucurella,Chelsea,LB,79
+Lucas Digne,Aston Villa,LB,79
+Angeliño,Galatasaray,LB,79
+Caio Henrique,AS Monaco,LB,78
+Mathías Olivera,Napoli FC,LB,78
+Pedraza,Villarreal CF,LB,78
+David Raum,RB Leipzig,LB,78
+Alex Sandro,Juventus,LB,78
+Tyrell Malacia,Manchester Utd,LB,78
+Reguilón,Manchester Utd,LB,78
+Rico Henry,Brentford,LB,78
+Alfonso Espino,Rayo Vallecano,LB,78
+Fran García,Real Madrid,LB,78
+Ismaily,LOSC Lille,LB,78
+Johan Mojica,CA Osasuna,LB,77
+Miranda,Real Betis,LB,77
+Emerson,West Ham,LB,77
+Brian Oliván,RCD Espanyol,LB,77
+Ghislain Konan,Al Fayha,LB,77
+Fabiano Parisi,Fiorentina,LB,77
+Konstantinos Tsimikas,Liverpool,LB,77
 Trent Alexander-Arnold,Liverpool,RB,86
 Kieran Trippier,Newcastle Utd,RB,85
 Giovanni Di Lorenzo,Napoli FC,RB,85
 Reece James,Chelsea,RB,84
 Kyle Walker,Manchester City,RB,84
 Achraf Hakimi,Paris SG,RB,84
-Jeremie Frimpong,Leverkusen,RWB,83
-Jonathan Clauss,OM,RWB,81
-Denzel Dumfries,Inter,RWB,81
-Przemysław Frankowski,RC Lens,RWB,79
-Pablo Maffeo,RCD Mallorca,RWB,78
-Hans Hateboer,Bergamo Calcio,RWB,78
-Damián Suárez,Getafe CF,RWB,77
-Christopher Trimmel,Union Berlin,RWB,77
-Mitchell Weiser,SV Werder Bremen,RWB,77
-Josip Juranović,Union Berlin,RWB,77
-Grimaldo,Leverkusen,LWB,84
-Federico Dimarco,Inter,LWB,82
-Leonardo Spinazzola,Roma FC,LWB,80
-Davide Zappacosta,Bergamo Calcio,LWB,79
-Robin Gosens,Union Berlin,LWB,79
-Philipp Max,Frankfurt,LWB,78
-Borna Sosa,Ajax,LWB,78
-Joakim Mæhle,VfL Wolfsburg,LWB,77
-Jaume Costa,RCD Mallorca,LWB,77
-Deiver Machado,RC Lens,LWB,76
+Noussair Mazraoui,FC Bayern München,RB,82
+Nahuel Molina,Atlético de Madrid,RB,82
+Carvajal,Real Madrid,RB,82
+Pedro Porro,Spurs,RB,81
+Lucas Vázquez,Real Madrid,RB,81
+Davide Calabria,Milan,RB,81
+Jesús Navas,Sevilla FC,RB,80
+Arnau Martínez,Girona FC,RB,80
+Benjamin White,Arsenal,RB,80
+Sergi Roberto,FC Barcelona,RB,80
+Aaron Wan-Bissaka,Manchester Utd,RB,80
+Hamari Traoré,Real Sociedad,RB,80
+Diogo Dalot,Manchester Utd,RB,80
+De Marcos,Athletic Club,RB,80
+Juan Foyth,Villarreal CF,RB,80
+Nordi Mukiele,Paris SG,RB,79
+Gonzalo Montiel,Nott'm Forest,RB,79
+Manuel Lazzari,Latium,RB,79
+Matty Cash,Aston Villa,RB,79
+Sacha Boey,Galatasaray,RB,79
+Ricardo Pereira,Leicester City,RB,79
+Ridle Baku,VfL Wolfsburg,RB,79
+Alexander Bah,SL Benfica,RB,79
+Azpilicueta,Atlético de Madrid,RB,79
+Lutsharel Geertruida,Feyenoord,RB,79
+Joël Veltman,Brighton,RB,78
+Marius Wolf,Borussia Dortmund,RB,78
+Takehiro Tomiyasu,Arsenal,RB,78
+James Tavernier,Rangers,RB,78
+Emerson Royal,Spurs,RB,78
+Vladimír Coufal,West Ham,RB,78
+Nélson Semedo,Wolves,RB,78
+Serge Aurier,Nott'm Forest,RB,78
+Héctor Bellerín,Real Betis,RB,78
+Benjamin Henrichs,RB Leipzig,RB,78
+Daniel Muñoz,KRC Genk,RB,77
+João Mário,FC Porto,RB,77
+Clinton Mata,OL,RB,77
+Stefan Posch,Bologna,RB,77
+Thierry Correia,Valencia CF,RB,77
+Youssouf Sabaly,Real Betis,RB,77
+Timothy Castagne,Fulham,RB,77
+Dodô,Fiorentina,RB,77
+Vanderson,AS Monaco,RB,77

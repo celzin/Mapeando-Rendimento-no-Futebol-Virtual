@@ -114,3 +114,11 @@ Parte 2:
 
     - Criar regra de definição de arestas mais específicas por atributo (média ou soma das diferenças)
     - Se for inferior ao treshold define a aresta.
+
+
+
+
+'ST': 'Atacantes', 'CF': 'Atacantes', 'LW': 'Atacantes', 'RW': 'Atacantes',
+'CDM': 'Meias', 'CM': 'Meias', 'RM': 'Meias', 'LM': 'Meias', 'CAM': 'Meias'
+'CB': 'Zagueiros', 'RWB': 'Zagueiros', 'LWB': 'Zagueiros'
+'LB': 'Laterais', 'RB': 'Laterais',
