@@ -112,3 +112,5 @@ Parte 2:
         - Verificar se a base do jogo tendencia algo time e se isso esta ligado ao cluster.
 
 
+    - Criar regra de definição de arestas mais específicas por atributo (média ou soma das diferenças)
+    - Se for inferior ao treshold define a aresta.

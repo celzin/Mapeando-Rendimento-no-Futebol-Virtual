@@ -1,29 +1,52 @@
-Name,Nation,Position,Overall
-Kylian Mbappé,France,ST,91
-Lionel Messi,Argentina,CF,90
-Rodri,Spain,CDM,89
-Kevin De Bruyne,Belgium,CM,91
-Bruno Fernandes,Portugal,CAM,88
-Riyad Mahrez,Algeria,RM,86
-Mohamed Salah,Egypt,RW,89
-Kingsley Coman,France,LM,85
-Vini Jr.,Brazil,LW,89
-Rúben Dias,Portugal,CB,89
-Virgil van Dijk,Holland,CB,89
-Marquinhos,Brazil,CB,87
-Andrew Robertson,Scotland,LB,86
-João Cancelo,Portugal,LB,86
-Theo Hernández,France,LB,85
-Trent Alexander-Arnold,England,RB,86
-Kieran Trippier,England,RB,85
-Giovanni Di Lorenzo,Italy,RB,85
-Jeremie Frimpong,Holland,RWB,83
-Jonathan Clauss,France,RWB,81
-Denzel Dumfries,Holland,RWB,81
-Przemysław Frankowski,Poland,RWB,79
-Pablo Maffeo,Spain,RWB,78
-Grimaldo,Spain,LWB,84
-Federico Dimarco,Italy,LWB,82
-Leonardo Spinazzola,Italy,LWB,80
-Davide Zappacosta,Italy,LWB,79
-Robin Gosens,Germany,LWB,79
+Name,Club,Position,Overall
+Kylian Mbappé,Paris SG,ST,91
+Erling Haaland,Manchester City,ST,91
+Harry Kane,FC Bayern München,ST,90
+Lionel Messi,Inter Miami CF,CF,90
+Karim Benzema,Al Ittihad,CF,90
+Sadio Mané,Al Nassr,CF,86
+Rodri,Manchester City,CDM,89
+Kevin De Bruyne,Manchester City,CM,91
+Bruno Fernandes,Manchester Utd,CAM,88
+Riyad Mahrez,Al Ahli,RM,86
+Mohamed Salah,Liverpool,RW,89
+Kingsley Coman,FC Bayern München,LM,85
+Vini Jr.,Real Madrid,LW,89
+Rúben Dias,Manchester City,CB,89
+Virgil van Dijk,Liverpool,CB,89
+Marquinhos,Paris SG,CB,87
+Éder Militão,Real Madrid,CB,86
+Matthijs de Ligt,FC Bayern München,CB,86
+Ronald Araujo,FC Barcelona,CB,86
+Andrew Robertson,Liverpool,LB,86
+João Cancelo,FC Barcelona,LB,86
+Theo Hernández,Milan,LB,85
+Marcos Acuña,Sevilla FC,LB,85
+Luke Shaw,Manchester Utd,LB,83
+Jordi Alba,Inter Miami CF,LB,83
+Trent Alexander-Arnold,Liverpool,RB,86
+Kieran Trippier,Newcastle Utd,RB,85
+Giovanni Di Lorenzo,Napoli FC,RB,85
+Reece James,Chelsea,RB,84
+Kyle Walker,Manchester City,RB,84
+Achraf Hakimi,Paris SG,RB,84
+Jeremie Frimpong,Leverkusen,RWB,83
+Jonathan Clauss,OM,RWB,81
+Denzel Dumfries,Inter,RWB,81
+Przemysław Frankowski,RC Lens,RWB,79
+Pablo Maffeo,RCD Mallorca,RWB,78
+Hans Hateboer,Bergamo Calcio,RWB,78
+Damián Suárez,Getafe CF,RWB,77
+Christopher Trimmel,Union Berlin,RWB,77
+Mitchell Weiser,SV Werder Bremen,RWB,77
+Josip Juranović,Union Berlin,RWB,77
+Grimaldo,Leverkusen,LWB,84
+Federico Dimarco,Inter,LWB,82
+Leonardo Spinazzola,Roma FC,LWB,80
+Davide Zappacosta,Bergamo Calcio,LWB,79
+Robin Gosens,Union Berlin,LWB,79
+Philipp Max,Frankfurt,LWB,78
+Borna Sosa,Ajax,LWB,78
+Joakim Mæhle,VfL Wolfsburg,LWB,77
+Jaume Costa,RCD Mallorca,LWB,77
+Deiver Machado,RC Lens,LWB,76
