@@ -32,6 +32,8 @@ Este estudo propõe uma metodologia inovadora para analisar as interações e si
 
 </div>
 
+<!-- ## Compilação e Execução  -->
+
 ## Observações:
 
 <div align="justify">
@@ -39,3 +41,16 @@ Este estudo propõe uma metodologia inovadora para analisar as interações e si
 O modelo de artigo a utilizado é o IEEE Conference Template disponível no Overleaf através do [link](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
 
 </div>
+
+# 📞 Contato
+
+<table align="center">
+  <tr>
+    <th>Participante</th>
+    <th>Contato</th>
+  </tr>
+  <tr>
+    <td>Celso</td>
+    <td><a href="https://t.me/celso_vsf"><img align="center" height="20px" width="90px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </td>
+  </tr>
+</table>
