@@ -14,7 +14,7 @@
 </h1>
 
 <div align="justify">
-Este repositório contém os recursos associados ao artigo "Explorando Conexões entre Jogadores em um Ambiente Virtual através de Grafos e Análise de Comunidades", que apresenta uma metodologia inovadora para analisar a conexão entre jogadores de futebol profissional através de técnicas avançadas de grafos.
+Este repositório contém os recursos associados ao artigo "Mapeando a Sinergia de Jogadores no Futebol Virtual: Uma Abordagem Analítica Através de Grafos e Exploração de Comunidades", que apresenta uma metodologia inovadora para analisar a conexão entre jogadores de futebol profissional através de técnicas avançadas de grafos.
 </div>
 
 ## Estrutura do Repositório
