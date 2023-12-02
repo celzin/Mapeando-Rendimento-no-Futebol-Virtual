@@ -34,7 +34,7 @@ Este estudo propõe uma metodologia inovadora para analisar as interações e si
 
 <!-- ## Compilação e Execução  -->
 
-## Observações:
+## Observações
 
 <div align="justify">
 
