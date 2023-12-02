@@ -42,7 +42,7 @@ O modelo de artigo a utilizado é o IEEE Conference Template disponível no Over
 
 </div>
 
-# 📞 Contato
+## 📞 Contato
 
 <table align="center">
   <tr>
